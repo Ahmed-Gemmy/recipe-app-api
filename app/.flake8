@@ -1,0 +1,5 @@
+[flake8]
+exclude =
+  __migrations__,
+  manage.py,
+  settings.py
